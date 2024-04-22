@@ -1,0 +1,6 @@
+dataset/
+.venv/
+preprocess_data/
+sadgaenv/
+third_party/
+logdir/
