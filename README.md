@@ -75,3 +75,9 @@ All configs of the experiments and models are in the files  `sadga-bert-run.json
 ```bash
     python run.py --mode eval --config sadga-[roberta|bert]-run.jsonnet
 ```
+
+you can download the logdir result directory from the link:[logdir](https://drive.google.com/file/d/1KDizYvhEliAgfiGsFopIF_FxL32AGRbO/view?usp=sharing) . Please download it and run it if you are having issue with running the above 4 steps. 
+##### Step 5. Cosine Similarity
+```bash
+    python cosineSimilarity.py
+```
